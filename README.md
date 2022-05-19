@@ -5,6 +5,7 @@ Requirements:
 - DLLs from Kinesis, made available at https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Motion_Control
 
 In progress:
+
 -Adding support for python wrapper to allow the app to target specific windows and send key presses which will allow some synchronisation of motor movements to various acquisition softwares. Currently being developed for NIS-Elements software so that Z-stacks can be acquired at different positions
 
 
